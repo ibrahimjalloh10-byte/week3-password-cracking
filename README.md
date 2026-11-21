@@ -23,7 +23,7 @@ john --show --format=pdf ~/week3/pm1/hash1.txt
 ![John the Ripper --show confirmation](screenshots/task2-show-password.png)
 *Confirming the cracked password with john --show.*
 
-![Unlocked PDF with flag](screenshots/task3-pdf-unlocked-full.png)
+![Unlocked PDF with flag](screenshots/task3-pdf-unlocked.png)
 *The unlocked PDF, confirming the password and showing the captured flag.*
 
 ![Networkwalks Hash Calculator](screenshots/task1-hash-extracted.png)
